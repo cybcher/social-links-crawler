@@ -1,0 +1,30 @@
+{
+  "name": "social-link-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vwhaleapps/social-link-scraper.git"
+  },
+  "keywords": [
+    "social",
+    "links",
+    "parser",
+    "scraper",
+    "handle"
+  ],
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "normalize-url": "^8.0.0",
+    "puppeteer": "^21.0.3"
+  },
+  "devDependencies": {
+    "prettier": "1.15.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
